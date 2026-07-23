@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "delete": false,
+  "message": "程序已被远程停用！",
+  "allowed_hwids": "*"
+}
