@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "delete": false,
+  "delete": true,
   "message": "退出！true false",
   "allowed_hwids": "*"
 }
